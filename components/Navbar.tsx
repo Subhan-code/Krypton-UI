@@ -86,7 +86,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenCommandPalette }) => {
           </button>
 
           {/* Twitter/X Icon */}
-          <a href="#" className="p-2 text-neutral-400 hover:text-white transition-colors rounded-lg border border-white/10 hover:border-white/20">
+          <a href="https://x.com/SubhanHQ" className="p-2 text-neutral-400 hover:text-white transition-colors rounded-lg border border-white/10 hover:border-white/20">
             <TwitterXIcon className="w-4 h-4" />
           </a>
 
